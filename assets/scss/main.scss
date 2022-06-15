@@ -131,8 +131,11 @@
     background: #fff;
     border: 1px solid #FF931E;
     border-radius: 4px;
-    position: relative;  
-  }
+    position: relative;  }
+  & article:hover {
+    background: #FF931E;
+    color: white;
+}
   &p {
     display: none;
     font-size: 18px;

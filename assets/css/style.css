@@ -102,6 +102,9 @@
     border: 1px solid #FF931E;
     border-radius: 4px;
     position: relative; }
+  .vacanciees_grid article:hover {
+    background: #FF931E;
+    color: white; }
   .vacanciees_gridp {
     display: none;
     font-size: 18px;
